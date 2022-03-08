@@ -1,0 +1,2 @@
+# centralized-repository
+SmartGame inc.
